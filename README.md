@@ -22,7 +22,7 @@ It also documents two other `-r` gotchas:
 Clone into your Claude skills directory:
 
 ```bash
-git clone git@github.com:sunxiangyu/claude-session-find.git ~/.claude/skills/session-find
+git clone git@github.com:evsunxiangyu/claude-session-find.git ~/.claude/skills/session-find
 ```
 
 Then either invoke it through the model ("find the session where I talked about X") or run the bundled tool directly:
